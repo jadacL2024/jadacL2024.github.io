@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+    background-color: #E3ABFF;
+}
+h1 {
+    text-align: center;
+    color: #CA8A52;
+    text-decoration: underline;
+    font-style: italic;
+}
